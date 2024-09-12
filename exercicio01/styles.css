@@ -39,6 +39,13 @@ body {
 }
 
 .message {
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 80%;
+}
+
+.message.first {
     margin-bottom: 15px;
     padding: 10px;
     border-radius: 10px;
